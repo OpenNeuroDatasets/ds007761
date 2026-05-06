@@ -1,4 +1,0 @@
-This dataset contains raw 3T fMRI data from 15 subjects who completed a visual task with their eyes closed while resting and spontaneously transitioning between sleep-wake states. Visual stimulus was a full-field flickering stimulus with no spatial contrast with a 16 second on-off block design. On blocks were either a high temporal contrast trial, with 100% contrast modulation flickering from a completely white to black screen at 7Hz, or  a low temporal trial, with a 10% contrast modulation flickering between midling grey intensities at 7Hz. Off blocks were non-flickering median luminance screens.
-
-
-
