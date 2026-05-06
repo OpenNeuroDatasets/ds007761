@@ -1,6 +1,6 @@
 {
 	"Modality": "MR",
-	"Task Name": "checker",
+	"TaskName": "checker",
 	"MagneticFieldStrength": 3,
 	"Manufacturer": "Siemens",
 	"ManufacturersModelName": "Prisma",
